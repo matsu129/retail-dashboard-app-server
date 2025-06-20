@@ -1,0 +1,158 @@
+[
+  {
+    "id": "4571609335016",
+    "category": "new",
+    "name": "Chiikawa Bakery Staff Mascot (Chiikawa)",
+    "price": 1870,
+    "image": "./assets/clients/items/new/4571609335016_1.webp",
+    "thumbnails": [
+      "./assets/clients/items/new/4571609335016_1.webp",
+      "./assets/clients/items/new/4571609335016_2.webp",
+      "./assets/clients/items/new/4571609335016_3.webp"
+    ],
+    "description": "A cute Chiikawa bakery staff mascot wearing a bakery uniform."
+  },
+  {
+    "id": "4571609335245",
+    "category": "new",
+    "name": "Chiikawa Bakery Staff Mascot (Hachiware)",
+    "price": 1870,
+    "image": "./assets/clients/items/new/4571609335245_1.webp",
+    "thumbnails": [
+      "./assets/clients/items/new/4571609335245_1.webp",
+      "./assets/clients/items/new/4571609335245_2.webp",
+      "./assets/clients/items/new/4571609335245_3.webp"
+    ],
+    "description": "A fluffy and adorable Hachiware bakery staff mascot."
+  },
+  {
+    "id": "4571609335252",
+    "category": "new",
+    "name": "Chiikawa Bakery Staff Mascot (Usagi)",
+    "price": 1870,
+    "image": "./assets/clients/items/new/4571609335252_1.webp",
+    "thumbnails": [
+      "./assets/clients/items/new/4571609335252_1.webp",
+      "./assets/clients/items/new/4571609335252_2.webp",
+      "./assets/clients/items/new/4571609335252_3.webp"
+    ],
+    "description": "A soft and cuddly Usagi bakery staff mascot."
+  },
+  {
+    "id": "4571609335115",
+    "category": "new",
+    "name": "Chiikawa Bakery Sandwich Mascot (Chiikawa)",
+    "price": 1870,
+    "image": "./assets/clients/items/new/4571609335115_1.webp",
+    "thumbnails": [
+      "./assets/clients/items/new/4571609335115_1.webp",
+      "./assets/clients/items/new/4571609335115_2.webp",
+      "./assets/clients/items/new/4571609335115_3.webp"
+    ],
+    "description": "A cute Chiikawa mascot holding a sandwich."
+  },
+  {
+    "id": "000000000461",
+    "category": "plush",
+    "name": "Chiikawa Sunfish Outing Cushion",
+    "price": 4180,
+    "image": "./assets/clients/items/nui/000000000461_1.webp",
+    "thumbnails": [
+      "./assets/clients/items/nui/000000000461_1.webp",
+      "./assets/clients/items/nui/000000000461_2.webp",
+      "./assets/clients/items/nui/000000000461_3.webp"
+    ],
+    "description": "A cute sunfish-shaped cushion, perfect for outings."
+  },
+  {
+    "id": "4549660982357",
+    "category": "plush",
+    "name": "Chiikawa Always Together, Support Me! Talking Chiikawa",
+    "price": 7150,
+    "image": "./assets/clients/items/nui/4549660982357_1.webp",
+    "thumbnails": [
+      "./assets/clients/items/nui/4549660982357_1.webp",
+      "./assets/clients/items/nui/4549660982357_2.webp",
+      "./assets/clients/items/nui/4549660982357_3.webp"
+    ],
+    "description": "A talking Chiikawa plush that supports you and is always by your side."
+  },
+  {
+    "id": "4549660982364",
+    "category": "plush",
+    "name": "Chiikawa Replying! So Much Talking Hachiware",
+    "price": 7150,
+    "image": "./assets/clients/items/nui/4549660982364_1.webp",
+    "thumbnails": [
+      "./assets/clients/items/nui/4549660982364_1.webp",
+      "./assets/clients/items/nui/4549660982364_2.webp",
+      "./assets/clients/items/nui/4549660982364_3.webp"
+    ],
+    "description": "A chatty Hachiware plush that loves to talk a lot."
+  },
+  {
+    "id": "4571609336921",
+    "category": "plush",
+    "name": "Chiikawa Panda Plush (Usagi)",
+    "price": 2750,
+    "image": "./assets/clients/items/nui/4571609336921_1.webp",
+    "thumbnails": [
+      "./assets/clients/items/nui/4571609336921_1.webp",
+      "./assets/clients/items/nui/4571609336921_2.webp",
+      "./assets/clients/items/nui/4571609336921_3.webp"
+    ],
+    "description": "A soft panda plush in the shape of Usagi, very cuddly."
+  },
+  {
+    "id": "4571609336990",
+    "category": "mascot",
+    "name": "Chiikawa Magical Chiikawa Petit Mini Mascot (Chiikawa)",
+    "price": 1870,
+    "image": "./assets/clients/items/mascot/4571609336990_1.webp",
+    "thumbnails": [
+      "./assets/clients/items/mascot/4571609336990_1.webp",
+      "./assets/clients/items/mascot/4571609336990_2.webp",
+      "./assets/clients/items/mascot/4571609336990_3.webp"
+    ],
+    "description": "A magical Chiikawa mini mascot with a charming magic wand."
+  },
+  {
+    "id": "4571609337010",
+    "category": "mascot",
+    "name": "Chiikawa Magical Chiikawa Petit Mini Mascot (Hachiware)",
+    "price": 1870,
+    "image": "./assets/clients/items/mascot/4571609337010_1.webp",
+    "thumbnails": [
+      "./assets/clients/items/mascot/4571609337010_1.webp",
+      "./assets/clients/items/mascot/4571609337010_2.webp",
+      "./assets/clients/items/mascot/4571609337010_3.webp"
+    ],
+    "description": "A magical Hachiware mini mascot with a cute hat."
+  },
+  {
+    "id": "4571609337027",
+    "category": "mascot",
+    "name": "Chiikawa Magical Chiikawa Petit Mini Mascot (Usagi)",
+    "price": 1870,
+    "image": "./assets/clients/items/mascot/4571609337027_1.webp",
+    "thumbnails": [
+      "./assets/clients/items/mascot/4571609337027_1.webp",
+      "./assets/clients/items/mascot/4571609337027_2.webp",
+      "./assets/clients/items/mascot/4571609337027_3.webp"
+    ],
+    "description": "A magical Usagi mini mascot made of soft materials."
+  },
+  {
+    "id": "4571609337034",
+    "category": "mascot",
+    "name": "Chiikawa Magical Chiikawa Petit Mini Mascot (Momonga)",
+    "price": 1870,
+    "image": "./assets/clients/items/mascot/4571609337034_1.webp",
+    "thumbnails": [
+      "./assets/clients/items/mascot/4571609337034_1.webp",
+      "./assets/clients/items/mascot/4571609337034_2.webp",
+      "./assets/clients/items/mascot/4571609337034_3.webp"
+    ],
+    "description": "A magical Momonga mini mascot with a cute tail."
+  }
+]
