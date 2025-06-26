@@ -2,11 +2,13 @@ const express = require('express');
 const app = express();
 const path = require('path');
 const productsRoute = require('./routes/products');
-const reviewsRouter = require('./routes/reviews');
+const reviewsRoute = require('./routes/reviews');
+const cartRoute = require('./routes/cart');
 
 app.use(express.json());
 app.use('/api/products', productsRoute);
-app.use('/api/reviews', reviewsRouter);
+app.use('/api/reviews', reviewsRoute);
+app.use('/api/cart', cartRoute);
 app.use(express.static(path.join(__dirname, '../retail-dashboard-app')));
 
 app.listen(3000, () => {
