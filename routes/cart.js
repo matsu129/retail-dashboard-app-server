@@ -4,18 +4,22 @@ const fs = require('fs');
 const path = require('path');
 
 const productsPath = path.join(__dirname, '../data/products.json');
+const salesPath = path.join(__dirname, '../data/sales.json');
 
-function readProducts(){
-  return JSON.parse(fs.readFileSync(productsPath, 'utf-8'));
+function readJSON(filePath){
+  return fs.existsSync(filePath)
+    ? JSON.parse(fs.readFileSync(filePath, 'utf-8'))
+    : [];
 }
 
-function writeProducts(products) {
-  fs.writeFileSync(productsPath, JSON.stringify(products, null, 2));
+function writeJSON(filePath, data) {
+  fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
 }
 
 router.post('/purchase', (req, res) => {
   const cartItems = req.body;
-  let products = readProducts();
+  let products = readJSON(productsPath);
+  let sales = readJSON(salesPath);
   const errors = [];
 
   cartItems.forEach(item => {
@@ -31,18 +35,28 @@ router.post('/purchase', (req, res) => {
     return res.status(400).json({ errors });
   }
   
+  const now = new Date().toISOString();
   products = products.map(product => {
     const cartItem = cartItems.find(i => String(i.id) === String(product.id));
     if (cartItem) {
+      sales.push({
+        productId: product.id,
+        name: product.name,
+        quantity: cartItem.quantity,
+        price: product.price,
+        date: now
+      });
       return {
         ...product,
-        stock: product.stock - cartItem.quantity
+        stock: product.stock - cartItem.quantity,
+        sold: (product.sold || 0) + cartItem.quantity
       };
     }
     return product;
   });
 
-  writeProducts(products);
+  writeJSON(productsPath, products);
+  writeJSON(salesPath, sales);
   res.json({ message: 'Purchase complete successfully' });
 });
 

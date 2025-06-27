@@ -14,3 +14,7 @@ app.use(express.static(path.join(__dirname, '../retail-dashboard-app')));
 app.listen(3000, () => {
   console.log('Server activating: http://localhost:3000');
 });
+app.use((err, req, res, next) => {
+  console.error('💥 Server error:', err.stack);
+  res.status(500).send('Internal Server Error');
+});
