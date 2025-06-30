@@ -27,8 +27,8 @@
       "./assets/clients/items/new/4571609335245_3.webp"
     ],
     "description": "A fluffy and adorable Hachiware bakery staff mascot.",
-    "stock": 99,
-    "sold": 1,
+    "stock": 98,
+    "sold": 2,
     "stockStatus": "In Stock"
   },
   {
@@ -43,8 +43,8 @@
       "./assets/clients/items/new/4571609335252_3.webp"
     ],
     "description": "A soft and cuddly Usagi bakery staff mascot.",
-    "stock": 100,
-    "sold": 0,
+    "stock": 99,
+    "sold": 1,
     "stockStatus": "In Stock"
   },
   {
@@ -75,8 +75,8 @@
       "./assets/clients/items/nui/000000000461_3.webp"
     ],
     "description": "A cute sunfish-shaped cushion, perfect for outings.",
-    "stock": 100,
-    "sold": 0,
+    "stock": 87,
+    "sold": 13,
     "stockStatus": "In Stock"
   },
   {
@@ -91,8 +91,8 @@
       "./assets/clients/items/nui/4549660982357_3.webp"
     ],
     "description": "A talking Chiikawa plush that supports you and is always by your side.",
-    "stock": 100,
-    "sold": 0,
+    "stock": 87,
+    "sold": 13,
     "stockStatus": "In Stock"
   },
   {
@@ -123,8 +123,8 @@
       "./assets/clients/items/nui/4571609336921_3.webp"
     ],
     "description": "A soft panda plush in the shape of Usagi, very cuddly.",
-    "stock": 100,
-    "sold": 0,
+    "stock": 86,
+    "sold": 14,
     "stockStatus": "In Stock"
   },
   {
@@ -171,8 +171,8 @@
       "./assets/clients/items/mascot/4571609337027_3.webp"
     ],
     "description": "A magical Usagi mini mascot made of soft materials.",
-    "stock": 100,
-    "sold": 0,
+    "stock": 0,
+    "sold": 100,
     "stockStatus": "In Stock"
   },
   {
