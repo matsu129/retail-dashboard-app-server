@@ -107,8 +107,8 @@
       "./assets/clients/items/nui/4549660982364_3.webp"
     ],
     "description": "A chatty Hachiware plush that loves to talk a lot.",
-    "stock": 100,
-    "sold": 0,
+    "stock": 94,
+    "sold": 6,
     "stockStatus": "In Stock"
   },
   {
@@ -139,8 +139,8 @@
       "./assets/clients/items/mascot/4571609336990_3.webp"
     ],
     "description": "A magical Chiikawa mini mascot with a charming magic wand.",
-    "stock": 100,
-    "sold": 0,
+    "stock": 97,
+    "sold": 3,
     "stockStatus": "In Stock"
   },
   {
@@ -155,8 +155,8 @@
       "./assets/clients/items/mascot/4571609337010_3.webp"
     ],
     "description": "A magical Hachiware mini mascot with a cute hat.",
-    "stock": 100,
-    "sold": 0,
+    "stock": 97,
+    "sold": 3,
     "stockStatus": "In Stock"
   },
   {
@@ -187,8 +187,8 @@
       "./assets/clients/items/mascot/4571609337034_3.webp"
     ],
     "description": "A magical Momonga mini mascot with a cute tail.",
-    "stock": 100,
-    "sold": 0,
+    "stock": 94,
+    "sold": 6,
     "stockStatus": "In Stock"
   }
 ]

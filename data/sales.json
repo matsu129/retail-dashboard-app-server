@@ -4,13 +4,55 @@
     "name": "Chiikawa Bakery Staff Mascot (Hachiware)",
     "quantity": 1,
     "price": 1870,
-    "date": "2025-06-27T00:36:55.127Z"
+    "date": "2025-06-01T00:36:55.127Z"
   },
   {
     "productId": "4571609335016",
     "name": "Chiikawa Bakery Staff Mascot (Chiikawa)",
     "quantity": 10,
     "price": 1870,
-    "date": "2025-06-27T00:37:42.171Z"
+    "date": "2025-06-02T00:37:42.171Z"
+  },
+  {
+    "productId": "4571609335245",
+    "name": "Chiikawa Bakery Staff Mascot (Hachiware)",
+    "quantity": 1,
+    "price": 1870,
+    "date": "2025-06-03T00:36:55.127Z"
+  },
+  {
+    "productId": "4571609335016",
+    "name": "Chiikawa Bakery Staff Mascot (Chiikawa)",
+    "quantity": 10,
+    "price": 1870,
+    "date": "2025-06-04T00:37:42.171Z"
+  },
+  {
+    "productId": "4549660982364",
+    "name": "Chiikawa Replying! So Much Talking Hachiware",
+    "quantity": 6,
+    "price": 7150,
+    "date": "2025-06-27T02:39:49.045Z"
+  },
+  {
+    "productId": "4571609336990",
+    "name": "Chiikawa Magical Chiikawa Petit Mini Mascot (Chiikawa)",
+    "quantity": 3,
+    "price": 1870,
+    "date": "2025-06-27T02:39:49.045Z"
+  },
+  {
+    "productId": "4571609337010",
+    "name": "Chiikawa Magical Chiikawa Petit Mini Mascot (Hachiware)",
+    "quantity": 3,
+    "price": 1870,
+    "date": "2025-06-27T02:39:49.045Z"
+  },
+  {
+    "productId": "4571609337034",
+    "name": "Chiikawa Magical Chiikawa Petit Mini Mascot (Momonga)",
+    "quantity": 6,
+    "price": 1870,
+    "date": "2025-06-27T02:39:49.045Z"
   }
 ]
