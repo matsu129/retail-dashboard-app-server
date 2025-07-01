@@ -11,8 +11,8 @@
       "./assets/clients/items/new/4571609335016_3.webp"
     ],
     "description": "A cute Chiikawa bakery staff mascot wearing a bakery uniform.",
-    "stock": 90,
-    "sold": 10,
+    "stock": 0,
+    "sold": 100,
     "stockStatus": "In Stock"
   },
   {
@@ -23,12 +23,12 @@
     "image": "./assets/clients/items/new/4571609335245_1.webp",
     "thumbnails": [
       "./assets/clients/items/new/4571609335245_1.webp",
-      "./assets/clients/items/new/4571609335245_2.webp",
-      "./assets/clients/items/new/4571609335245_3.webp"
+      "./assets/clients/items/new/4571609335016_2.webp",
+      "./assets/clients/items/new/4571609335016_3.webp"
     ],
     "description": "A fluffy and adorable Hachiware bakery staff mascot.",
-    "stock": 98,
-    "sold": 2,
+    "stock": 17,
+    "sold": 83,
     "stockStatus": "In Stock"
   },
   {
@@ -39,12 +39,12 @@
     "image": "./assets/clients/items/new/4571609335252_1.webp",
     "thumbnails": [
       "./assets/clients/items/new/4571609335252_1.webp",
-      "./assets/clients/items/new/4571609335252_2.webp",
-      "./assets/clients/items/new/4571609335252_3.webp"
+      "./assets/clients/items/new/4571609335016_2.webp",
+      "./assets/clients/items/new/4571609335016_3.webp"
     ],
     "description": "A soft and cuddly Usagi bakery staff mascot.",
-    "stock": 99,
-    "sold": 1,
+    "stock": 46,
+    "sold": 54,
     "stockStatus": "In Stock"
   },
   {
@@ -59,8 +59,8 @@
       "./assets/clients/items/new/4571609335115_3.webp"
     ],
     "description": "A cute Chiikawa mascot holding a sandwich.",
-    "stock": 100,
-    "sold": 0,
+    "stock": 86,
+    "sold": 14,
     "stockStatus": "In Stock"
   },
   {
@@ -75,8 +75,8 @@
       "./assets/clients/items/nui/000000000461_3.webp"
     ],
     "description": "A cute sunfish-shaped cushion, perfect for outings.",
-    "stock": 87,
-    "sold": 13,
+    "stock": 77,
+    "sold": 23,
     "stockStatus": "In Stock"
   },
   {
@@ -91,8 +91,8 @@
       "./assets/clients/items/nui/4549660982357_3.webp"
     ],
     "description": "A talking Chiikawa plush that supports you and is always by your side.",
-    "stock": 87,
-    "sold": 13,
+    "stock": 73,
+    "sold": 27,
     "stockStatus": "In Stock"
   },
   {
@@ -107,8 +107,8 @@
       "./assets/clients/items/nui/4549660982364_3.webp"
     ],
     "description": "A chatty Hachiware plush that loves to talk a lot.",
-    "stock": 94,
-    "sold": 6,
+    "stock": 44,
+    "sold": 56,
     "stockStatus": "In Stock"
   },
   {
@@ -123,8 +123,8 @@
       "./assets/clients/items/nui/4571609336921_3.webp"
     ],
     "description": "A soft panda plush in the shape of Usagi, very cuddly.",
-    "stock": 86,
-    "sold": 14,
+    "stock": 58,
+    "sold": 42,
     "stockStatus": "In Stock"
   },
   {
@@ -139,8 +139,8 @@
       "./assets/clients/items/mascot/4571609336990_3.webp"
     ],
     "description": "A magical Chiikawa mini mascot with a charming magic wand.",
-    "stock": 97,
-    "sold": 3,
+    "stock": 84,
+    "sold": 16,
     "stockStatus": "In Stock"
   },
   {
@@ -151,12 +151,12 @@
     "image": "./assets/clients/items/mascot/4571609337010_1.webp",
     "thumbnails": [
       "./assets/clients/items/mascot/4571609337010_1.webp",
-      "./assets/clients/items/mascot/4571609337010_2.webp",
-      "./assets/clients/items/mascot/4571609337010_3.webp"
+      "./assets/clients/items/mascot/4571609336990_2.webp",
+      "./assets/clients/items/mascot/4571609336990_3.webp"
     ],
     "description": "A magical Hachiware mini mascot with a cute hat.",
-    "stock": 97,
-    "sold": 3,
+    "stock": 47,
+    "sold": 53,
     "stockStatus": "In Stock"
   },
   {
@@ -167,8 +167,8 @@
     "image": "./assets/clients/items/mascot/4571609337027_1.webp",
     "thumbnails": [
       "./assets/clients/items/mascot/4571609337027_1.webp",
-      "./assets/clients/items/mascot/4571609337027_2.webp",
-      "./assets/clients/items/mascot/4571609337027_3.webp"
+      "./assets/clients/items/mascot/4571609336990_2.webp",
+      "./assets/clients/items/mascot/4571609336990_3.webp"
     ],
     "description": "A magical Usagi mini mascot made of soft materials.",
     "stock": 0,
@@ -183,12 +183,12 @@
     "image": "./assets/clients/items/mascot/4571609337034_1.webp",
     "thumbnails": [
       "./assets/clients/items/mascot/4571609337034_1.webp",
-      "./assets/clients/items/mascot/4571609337034_2.webp",
-      "./assets/clients/items/mascot/4571609337034_3.webp"
+      "./assets/clients/items/mascot/4571609336990_2.webp",
+      "./assets/clients/items/mascot/4571609336990_3.webp"
     ],
     "description": "A magical Momonga mini mascot with a cute tail.",
-    "stock": 94,
-    "sold": 6,
+    "stock": 81,
+    "sold": 19,
     "stockStatus": "In Stock"
   }
 ]
