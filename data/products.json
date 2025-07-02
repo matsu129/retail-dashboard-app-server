@@ -59,8 +59,8 @@
       "./assets/clients/items/new/4571609335115_3.webp"
     ],
     "description": "A cute Chiikawa mascot holding a sandwich.",
-    "stock": 86,
-    "sold": 14,
+    "stock": 47,
+    "sold": 53,
     "stockStatus": "In Stock"
   },
   {
@@ -75,8 +75,8 @@
       "./assets/clients/items/nui/000000000461_3.webp"
     ],
     "description": "A cute sunfish-shaped cushion, perfect for outings.",
-    "stock": 77,
-    "sold": 23,
+    "stock": 76,
+    "sold": 24,
     "stockStatus": "In Stock"
   },
   {
