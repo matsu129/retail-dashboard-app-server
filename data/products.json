@@ -48,6 +48,38 @@
     "stockStatus": "In Stock"
   },
   {
+    "id": "4571609335122",
+    "category": "new",
+    "name": "Chiikawa Bakery Sandwich Mascot (Hachiware)",
+    "price": 1870,
+    "image": "./assets/clients/items/new/4571609335122_1.webp",
+    "thumbnails": [
+      "./assets/clients/items/new/4571609335122_1.webp",
+      "./assets/clients/items/new/4571609335115_2.webp",
+      "./assets/clients/items/new/4571609335115_3.webp"
+    ],
+    "description": "A cute Chiikawa mascot holding a sandwich.",
+    "stock": 100,
+    "sold": 0,
+    "stockStatus": "In Stock"
+  },
+  {
+    "id": "4571609335139",
+    "category": "new",
+    "name": "Chiikawa Bakery Sandwich Mascot (Usagi)",
+    "price": 1870,
+    "image": "./assets/clients/items/new/4571609335139_1.webp",
+    "thumbnails": [
+      "./assets/clients/items/new/4571609335139_1.webp",
+      "./assets/clients/items/new/4571609335115_2.webp",
+      "./assets/clients/items/new/4571609335115_3.webp"
+    ],
+    "description": "A cute Chiikawa mascot holding a sandwich.",
+    "stock": 100,
+    "sold": 0,
+    "stockStatus": "In Stock"
+  },
+  {
     "id": "4571609335115",
     "category": "new",
     "name": "Chiikawa Bakery Sandwich Mascot (Chiikawa)",
@@ -109,6 +141,38 @@
     "description": "A chatty Hachiware plush that loves to talk a lot.",
     "stock": 44,
     "sold": 56,
+    "stockStatus": "In Stock"
+  },
+  {
+    "id": "4571609336945",
+    "category": "plush",
+    "name": "Chiikawa Panda Plush (Chiikawa)",
+    "price": 2750,
+    "image": "./assets/clients/items/nui/4571609336945_1.webp",
+    "thumbnails": [
+      "./assets/clients/items/nui/4571609336945_1.webp",
+      "./assets/clients/items/nui/4571609336921_2.webp",
+      "./assets/clients/items/nui/4571609336921_3.webp"
+    ],
+    "description": "A soft panda plush in the shape of Usagi, very cuddly.",
+    "stock": 100,
+    "sold": 0,
+    "stockStatus": "In Stock"
+  },
+  {
+    "id": "4571609336938",
+    "category": "plush",
+    "name": "Chiikawa Panda Plush (Hachiware)",
+    "price": 2750,
+    "image": "./assets/clients/items/nui/4571609336938_1.webp",
+    "thumbnails": [
+      "./assets/clients/items/nui/4571609336938_1.webp",
+      "./assets/clients/items/nui/4571609336921_2.webp",
+      "./assets/clients/items/nui/4571609336921_3.webp"
+    ],
+    "description": "A soft panda plush in the shape of Usagi, very cuddly.",
+    "stock": 100,
+    "sold": 0,
     "stockStatus": "In Stock"
   },
   {
@@ -189,6 +253,70 @@
     "description": "A magical Momonga mini mascot with a cute tail.",
     "stock": 81,
     "sold": 19,
+    "stockStatus": "In Stock"
+  },
+  {
+    "id": "4571609337041",
+    "category": "mascot",
+    "name": "Chiikawa Magical Chiikawa Petit Mini Mascot (Kurimanju)",
+    "price": 1870,
+    "image": "./assets/clients/items/mascot/4571609337041_1.webp",
+    "thumbnails": [
+      "./assets/clients/items/mascot/4571609337041_1.webp",
+      "./assets/clients/items/mascot/4571609336990_2.webp",
+      "./assets/clients/items/mascot/4571609336990_3.webp"
+    ],
+    "description": "A magical Momonga mini mascot with a cute tail.",
+    "stock": 100,
+    "sold": 0,
+    "stockStatus": "In Stock"
+  },
+  {
+    "id": "4571609337058",
+    "category": "mascot",
+    "name": "Chiikawa Magical Chiikawa Petit Mini Mascot (Shisa)",
+    "price": 1870,
+    "image": "./assets/clients/items/mascot/4571609337058_1.webp",
+    "thumbnails": [
+      "./assets/clients/items/mascot/4571609337058_1.webp",
+      "./assets/clients/items/mascot/4571609336990_2.webp",
+      "./assets/clients/items/mascot/4571609336990_3.webp"
+    ],
+    "description": "A magical Momonga mini mascot with a cute tail.",
+    "stock": 100,
+    "sold": 0,
+    "stockStatus": "In Stock"
+  },
+  {
+    "id": "4571609337065",
+    "category": "mascot",
+    "name": "Chiikawa Magical Chiikawa Petit Mini Mascot (Rakko)",
+    "price": 1870,
+    "image": "./assets/clients/items/mascot/4571609337065_1.webp",
+    "thumbnails": [
+      "./assets/clients/items/mascot/4571609337065_1.webp",
+      "./assets/clients/items/mascot/4571609336990_2.webp",
+      "./assets/clients/items/mascot/4571609336990_3.webp"
+    ],
+    "description": "A magical Momonga mini mascot with a cute tail.",
+    "stock": 100,
+    "sold": 0,
+    "stockStatus": "In Stock"
+  },
+  {
+    "id": "4571609337072",
+    "category": "mascot",
+    "name": "Chiikawa Magical Chiikawa Petit Mini Mascot (Furuhonya)",
+    "price": 1870,
+    "image": "./assets/clients/items/mascot/4571609337072_1.webp",
+    "thumbnails": [
+      "./assets/clients/items/mascot/4571609337072_1.webp",
+      "./assets/clients/items/mascot/4571609336990_2.webp",
+      "./assets/clients/items/mascot/4571609336990_3.webp"
+    ],
+    "description": "A magical Momonga mini mascot with a cute tail.",
+    "stock": 99,
+    "sold": 1,
     "stockStatus": "In Stock"
   }
 ]
